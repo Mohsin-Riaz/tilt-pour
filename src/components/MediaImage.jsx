@@ -20,6 +20,10 @@ const MediaImage = (prop) => {
                     display: show ? null : 'none',
                 }}
             />
+            {/* <img
+                src={image}
+                style={{ display: 'flex', maxWidth: '100%' }}
+            ></img> */}
             <MagnifierContainer>
                 <Magnifier
                     imageSrc={image}

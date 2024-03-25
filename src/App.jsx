@@ -70,9 +70,9 @@ function App() {
                         </div>
                     </div>
                     <div className="media">
-                        <MediaImage image={'./src/assets/images/machine.jpg'} />
-                        <MediaImage image={'./src/assets/images/load.jpg'} />
-                        <MediaImage image={'./src/assets/images/thermal.jpg'} />
+                        <MediaImage image={'./images/machine.jpg'} />
+                        <MediaImage image={'./images/load.jpg'} />
+                        <MediaImage image={'./images/thermal.jpg'} />
                     </div>
                 </div>
             </main>
