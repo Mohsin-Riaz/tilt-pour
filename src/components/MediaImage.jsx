@@ -11,7 +11,7 @@ const MediaImage = (prop) => {
             className="media-wrapper"
             onMouseEnter={() => setHover(true)}
             onMouseLeave={() => setHover(false)}
-            style={{ width: '400px' }}
+            style={{ width: '100%' }}
         >
             <FaMagnifyingGlassPlus
                 className={'magnify-icon'}
